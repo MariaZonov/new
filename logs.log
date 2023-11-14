@@ -1,0 +1,700 @@
+2023-11-10 16:00:51,653 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-10 16:00:51,756 INFO i.g.b.w.o.Downloader [main] Downloading https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/119.0.6045.105/win64/chromedriver-win64.zip
+2023-11-10 16:00:53,951 INFO i.g.b.w.o.Downloader [main] Extracting driver from compressed file chromedriver-win64.zip
+2023-11-10 16:00:54,420 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\tyavi\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-10 16:02:48,739 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-10 16:02:48,803 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\tyavi\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-10 16:04:51,948 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-10 16:04:52,003 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\tyavi\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-10 17:01:11,301 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-10 17:01:11,362 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\tyavi\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-10 17:01:34,045 INFO CorrectDataTest [main] РћС‚РєСЂС‹С‚РёРµ Chrome
+2023-11-10 17:02:22,584 INFO CorrectDataTest [main] Р—Р°РєСЂС‹С‚РёРµ РґСЂР°Р№РІРµСЂР°
+2023-11-10 17:04:12,407 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-10 17:04:12,500 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\tyavi\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-10 17:04:32,807 INFO CorrectDataTest [main] Открытие Chrome
+2023-11-10 17:04:54,286 INFO CorrectDataTest [main] Авторизация на сайте
+2023-11-10 17:05:15,750 INFO CorrectDataTest [main] Вход в Мой Профиль
+2023-11-10 17:05:32,893 INFO CorrectDataTest [main] Добавление пользовательских данных
+2023-11-10 17:06:14,551 INFO CorrectDataTest [main] Добавление основной информации
+2023-11-10 17:06:15,270 INFO CorrectDataTest [main] Добавление другой информации
+2023-11-10 17:06:54,202 INFO CorrectDataTest [main] Добавление информации об опыте разработки
+2023-11-10 17:06:57,766 INFO CorrectDataTest [main] Сохранение страницы
+2023-11-10 17:07:01,295 INFO CorrectDataTest [main] Закрытие драйвера
+2023-11-10 17:07:04,749 INFO CorrectDataTest [main] Открытие Chrome
+2023-11-10 17:07:15,196 INFO CorrectDataTest [main] Авторизация на сайте
+2023-11-10 17:07:27,683 INFO CorrectDataTest [main] Вход в Мой Профиль
+2023-11-10 17:07:32,022 INFO CorrectDataTest [main] В разделе о себе отображаются указанные ранее данные
+2023-11-10 17:12:17,743 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-10 17:12:18,204 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\tyavi\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-10 17:12:33,805 INFO CorrectDataTest [main] Открытие Chrome
+2023-11-10 17:12:49,435 INFO CorrectDataTest [main] Авторизация на сайте
+2023-11-10 17:12:57,144 INFO CorrectDataTest [main] Вход в Мой Профиль
+2023-11-10 17:13:13,552 INFO CorrectDataTest [main] Добавление пользовательских данных
+2023-11-10 17:13:53,760 INFO CorrectDataTest [main] Добавление основной информации
+2023-11-10 17:13:54,681 INFO CorrectDataTest [main] Добавление другой информации
+2023-11-10 17:14:34,287 INFO CorrectDataTest [main] Добавление информации об опыте разработки
+2023-11-10 17:14:37,693 INFO CorrectDataTest [main] Сохранение страницы
+2023-11-10 17:14:40,446 INFO CorrectDataTest [main] Закрытие драйвера
+2023-11-10 17:14:42,590 INFO CorrectDataTest [main] Открытие Chrome
+2023-11-10 17:14:53,669 INFO CorrectDataTest [main] Авторизация на сайте
+2023-11-10 17:15:15,298 INFO CorrectDataTest [main] Вход в Мой Профиль
+2023-11-10 17:15:17,910 INFO CorrectDataTest [main] В разделе о себе отображаются указанные ранее данные
+2023-11-10 17:15:20,479 INFO CorrectDataTest [main] Закрытие драйвера
+2023-11-10 17:18:11,458 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-10 17:18:11,766 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\tyavi\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-10 17:18:31,417 INFO CorrectDataTest [main] РћС‚РєСЂС‹С‚РёРµ Chrome
+2023-11-10 17:19:50,406 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-10 17:19:50,519 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\tyavi\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-10 17:20:09,934 INFO CorrectDataTest [main] РћС‚РєСЂС‹С‚РёРµ Chrome
+2023-11-10 17:21:46,257 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-10 17:21:46,334 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\tyavi\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-10 17:21:58,456 INFO CorrectDataTest [main] РћС‚РєСЂС‹С‚РёРµ Chrome
+2023-11-10 17:23:06,656 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-10 17:23:06,911 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\tyavi\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-10 17:23:24,021 INFO CorrectDataTest [main] РћС‚РєСЂС‹С‚РёРµ Chrome
+2023-11-10 17:23:44,429 INFO CorrectDataTest [main] Р—Р°РєСЂС‹С‚РёРµ РґСЂР°Р№РІРµСЂР°
+2023-11-10 17:24:15,743 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-10 17:24:17,763 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\tyavi\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-10 17:24:35,568 INFO CorrectDataTest [main] Открытие Chrome
+2023-11-10 17:24:48,952 INFO CorrectDataTest [main] Авторизация на сайте
+2023-11-10 17:24:51,597 INFO CorrectDataTest [main] Закрытие драйвера
+2023-11-10 17:25:47,195 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-10 17:25:47,239 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\tyavi\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-10 17:25:54,334 INFO CorrectDataTest [main] Открытие Chrome
+2023-11-10 17:26:08,636 INFO CorrectDataTest [main] Авторизация на сайте
+2023-11-10 17:26:10,389 INFO CorrectDataTest [main] Закрытие драйвера
+2023-11-10 17:27:35,539 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-10 17:27:35,621 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\tyavi\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-10 17:27:49,014 INFO CorrectDataTest [main] РћС‚РєСЂС‹С‚РёРµ Chrome
+2023-11-10 17:28:03,789 INFO CorrectDataTest [main] Р—Р°РєСЂС‹С‚РёРµ РґСЂР°Р№РІРµСЂР°
+2023-11-10 17:28:42,599 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-10 17:28:42,651 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\tyavi\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-10 17:28:51,353 INFO CorrectDataTest [main] Открытие Chrome
+2023-11-10 17:29:05,908 INFO CorrectDataTest [main] Авторизация на сайте
+2023-11-10 17:29:20,188 INFO CorrectDataTest [main] Вход в Мой Профиль
+2023-11-10 17:29:37,949 INFO CorrectDataTest [main] Добавление пользовательских данных
+2023-11-10 17:30:21,770 INFO CorrectDataTest [main] Добавление основной информации
+2023-11-10 17:30:22,701 INFO CorrectDataTest [main] Добавление другой информации
+2023-11-10 17:31:01,682 INFO CorrectDataTest [main] Добавление информации об опыте разработки
+2023-11-10 17:31:05,158 INFO CorrectDataTest [main] Сохранение страницы
+2023-11-10 17:31:09,050 INFO CorrectDataTest [main] Закрытие драйвера
+2023-11-10 17:31:11,324 INFO CorrectDataTest [main] Открытие Chrome
+2023-11-10 17:31:19,766 INFO CorrectDataTest [main] Авторизация на сайте
+2023-11-10 17:31:50,975 INFO CorrectDataTest [main] Закрытие драйвера
+2023-11-10 17:36:45,586 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-10 17:36:45,656 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\tyavi\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-10 17:36:53,172 INFO CorrectDataTest [main] Открытие Chrome
+2023-11-10 17:37:38,219 INFO CorrectDataTest [main] Закрытие драйвера
+2023-11-10 17:39:53,679 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-10 17:39:53,798 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\tyavi\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-10 17:40:09,171 INFO CorrectDataTest [main] РћС‚РєСЂС‹С‚РёРµ Chrome
+2023-11-10 17:40:30,029 INFO CorrectDataTest [main] Р—Р°РєСЂС‹С‚РёРµ РґСЂР°Р№РІРµСЂР°
+2023-11-10 17:44:18,634 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-10 17:44:18,696 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\tyavi\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-10 17:44:32,413 INFO CorrectDataTest [main] РћС‚РєСЂС‹С‚РёРµ Chrome
+2023-11-10 17:49:46,424 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-10 17:49:46,763 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\tyavi\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-10 17:50:02,638 INFO CorrectDataTest [main] РћС‚РєСЂС‹С‚РёРµ Chrome
+2023-11-10 17:50:15,184 INFO CorrectDataTest [main] Р’С…РѕРґ РІ Р›Рљ
+2023-11-10 17:50:38,084 INFO CorrectDataTest [main] Р’С…РѕРґ РІ РњРѕР№ РџСЂРѕС„РёР»СЊ
+2023-11-10 17:51:00,645 INFO CorrectDataTest [main] Р—Р°С€Р»Рё РІ Р›Рљ
+2023-11-10 17:53:57,291 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-10 17:53:57,362 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\tyavi\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-10 17:54:12,239 INFO CorrectDataTest [main] РћС‚РєСЂС‹С‚РёРµ Chrome
+2023-11-10 17:57:39,212 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-10 17:57:39,269 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\tyavi\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-10 17:57:54,671 INFO CorrectDataTest [main] Открытие Chrome
+2023-11-10 17:58:16,825 INFO CorrectDataTest [main] Вход в ЛК
+2023-11-10 17:58:25,816 INFO CorrectDataTest [main] Р’С…РѕРґ РІ Р›Рљ
+2023-11-10 17:58:52,900 INFO CorrectDataTest [main] Закрытие драйвера
+2023-11-10 18:10:20,599 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-10 18:10:20,646 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\tyavi\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-10 18:10:29,596 INFO CorrectDataTest [main] Открытие Chrome
+2023-11-10 18:10:43,911 INFO CorrectDataTest [main] Вход в ЛК
+2023-11-10 18:11:17,475 INFO CorrectDataTest [main] Закрытие драйвера
+2023-11-10 18:14:21,897 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-10 18:14:21,954 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\tyavi\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-10 18:14:33,246 INFO CorrectDataTest [main] Открытие Chrome
+2023-11-10 18:14:45,502 INFO CorrectDataTest [main] Вход в ЛК
+2023-11-10 18:15:16,660 INFO CorrectDataTest [main] Закрытие драйвера
+2023-11-10 18:15:57,337 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-10 18:15:57,391 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\tyavi\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-10 18:16:03,528 INFO CorrectDataTest [main] Открытие Chrome
+2023-11-10 18:16:20,756 INFO CorrectDataTest [main] Вход в ЛК
+2023-11-10 18:16:40,744 INFO CorrectDataTest [main] Закрытие драйвера
+2023-11-10 18:17:15,620 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-10 18:17:15,662 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\tyavi\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-10 18:17:22,447 INFO CorrectDataTest [main] РћС‚РєСЂС‹С‚РёРµ Chrome
+2023-11-10 18:17:30,556 INFO CorrectDataTest [main] Р—Р°РєСЂС‹С‚РёРµ РґСЂР°Р№РІРµСЂР°
+2023-11-10 18:23:39,283 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-10 18:23:39,329 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\tyavi\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-10 18:23:45,628 INFO CorrectDataTest [main] Открытие Chrome
+2023-11-10 18:23:59,559 INFO CorrectDataTest [main] Вход в ЛК
+2023-11-10 18:24:31,211 INFO CorrectDataTest [main] Закрытие драйвера
+2023-11-13 09:21:41,579 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-13 09:21:41,641 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\tyavi\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-13 09:21:52,443 INFO CorrectDataTest [main] Открытие Chrome
+2023-11-13 09:22:10,804 INFO CorrectDataTest [main] Вход в ЛК
+2023-11-13 09:22:50,909 INFO CorrectDataTest [main] Закрытие драйвера
+2023-11-13 09:22:51,120 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-13 09:22:51,167 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\tyavi\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-13 09:28:28,835 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-13 09:28:28,885 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\tyavi\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-13 09:28:39,405 INFO CorrectDataTest [main] Открытие Chrome
+2023-11-13 09:28:52,729 INFO CorrectDataTest [main] Вход в ЛК
+2023-11-13 09:29:23,807 INFO CorrectDataTest [main] Закрытие драйвера
+2023-11-13 09:32:43,575 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-13 09:32:43,635 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\tyavi\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-13 09:32:53,739 INFO CorrectDataTest [main] Открытие Chrome
+2023-11-13 09:33:22,873 INFO CorrectDataTest [main] Закрытие драйвера
+2023-11-13 09:34:59,912 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-13 09:34:59,993 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\tyavi\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-13 09:35:10,157 INFO CorrectDataTest [main] Открытие Chrome
+2023-11-13 09:35:23,003 INFO CorrectDataTest [main] Закрытие драйвера
+2023-11-13 09:37:38,530 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-13 09:37:38,607 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\tyavi\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-13 09:37:48,612 INFO CorrectDataTest [main] Открытие Chrome
+2023-11-13 09:38:00,950 INFO CorrectDataTest [main] Авторизация на сайте
+2023-11-13 09:38:32,240 INFO CorrectDataTest [main] Закрытие драйвера
+2023-11-13 09:39:36,946 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-13 09:39:36,989 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\tyavi\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-13 09:39:45,722 INFO CorrectDataTest [main] Открытие Chrome
+2023-11-13 09:39:58,271 INFO CorrectDataTest [main] Авторизация на сайте
+2023-11-13 09:40:34,823 INFO CorrectDataTest [main] Закрытие драйвера
+2023-11-13 09:42:07,795 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-13 09:42:07,854 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\tyavi\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-13 09:42:19,370 INFO CorrectDataTest [main] Открытие Chrome
+2023-11-13 09:42:34,926 INFO CorrectDataTest [main] Авторизация на сайте
+2023-11-13 09:43:06,456 INFO CorrectDataTest [main] Закрытие драйвера
+2023-11-13 09:44:56,194 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-13 09:44:56,283 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\tyavi\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-13 09:45:06,985 INFO CorrectDataTest [main] РћС‚РєСЂС‹С‚РёРµ Chrome
+2023-11-13 09:45:19,509 INFO CorrectDataTest [main] Р—Р°РєСЂС‹С‚РёРµ РґСЂР°Р№РІРµСЂР°
+2023-11-13 10:24:26,981 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-13 10:24:27,044 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\tyavi\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-13 10:24:41,341 INFO CorrectDataTest [main] Открытие Chrome
+2023-11-13 10:25:03,629 INFO CorrectDataTest [main] Авторизация на сайте
+2023-11-13 10:25:11,412 INFO CorrectDataTest [main] Закрытие драйвера
+2023-11-13 10:36:03,160 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-13 10:36:03,229 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\tyavi\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-13 10:36:11,233 INFO CorrectDataTest [main] Открытие Chrome
+2023-11-13 10:36:22,887 INFO CorrectDataTest [main] Авторизация на сайте
+2023-11-13 10:36:58,087 INFO CorrectDataTest [main] Закрытие драйвера
+2023-11-13 10:44:48,425 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-13 10:44:48,480 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\tyavi\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-13 10:44:56,975 INFO CorrectDataTest [main] Открытие Chrome
+2023-11-13 10:45:07,827 INFO CorrectDataTest [main] Авторизация на сайте
+2023-11-13 10:45:38,879 INFO CorrectDataTest [main] Закрытие драйвера
+2023-11-13 10:46:10,180 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-13 10:46:10,237 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\tyavi\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-13 10:46:17,156 INFO CorrectDataTest [main] Открытие Chrome
+2023-11-13 10:46:31,437 INFO CorrectDataTest [main] Авторизация на сайте
+2023-11-13 10:46:33,377 INFO CorrectDataTest [main] Закрытие драйвера
+2023-11-13 10:58:43,826 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-13 10:58:43,880 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\tyavi\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-13 10:58:55,917 INFO CorrectDataTest [main] Открытие Chrome
+2023-11-13 10:59:08,661 INFO CorrectDataTest [main] Авторизация на сайте
+2023-11-13 10:59:40,164 INFO CorrectDataTest [main] Закрытие драйвера
+2023-11-13 11:05:39,565 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-13 11:05:39,635 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\tyavi\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-13 11:05:48,469 INFO CorrectDataTest [main] РћС‚РєСЂС‹С‚РёРµ Chrome
+2023-11-13 11:05:57,122 INFO CorrectDataTest [main] Р—Р°РєСЂС‹С‚РёРµ РґСЂР°Р№РІРµСЂР°
+2023-11-13 11:06:42,154 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-13 11:06:42,195 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\tyavi\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-13 11:06:48,643 INFO CorrectDataTest [main] Открытие Chrome
+2023-11-13 11:06:58,855 INFO CorrectDataTest [main] Авторизация на сайте
+2023-11-13 11:07:30,746 INFO CorrectDataTest [main] Закрытие драйвера
+2023-11-13 11:10:02,815 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-13 11:10:02,869 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\tyavi\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-13 11:10:13,303 INFO CorrectDataTest [main] Открытие Chrome
+2023-11-13 11:10:22,996 INFO CorrectDataTest [main] Авторизация на сайте
+2023-11-13 11:10:54,292 INFO CorrectDataTest [main] Закрытие драйвера
+2023-11-13 11:40:49,948 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-13 11:40:50,014 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\tyavi\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-13 11:40:58,166 INFO CorrectDataTest [main] Открытие Chrome
+2023-11-13 11:41:09,741 INFO CorrectDataTest [main] Авторизация на сайте
+2023-11-13 11:41:40,815 INFO CorrectDataTest [main] Закрытие драйвера
+2023-11-13 11:44:00,796 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-13 11:44:00,860 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\tyavi\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-13 11:44:08,920 INFO CorrectDataTest [main] Открытие Chrome
+2023-11-13 11:44:23,265 INFO CorrectDataTest [main] Авторизация на сайте
+2023-11-13 11:44:25,284 INFO CorrectDataTest [main] Закрытие драйвера
+2023-11-13 11:46:36,561 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-13 11:46:36,609 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\tyavi\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-13 11:46:43,167 INFO CorrectDataTest [main] Открытие Chrome
+2023-11-13 11:46:55,306 INFO CorrectDataTest [main] Авторизация на сайте
+2023-11-13 11:46:57,858 INFO CorrectDataTest [main] Закрытие драйвера
+2023-11-13 11:53:37,823 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-13 11:53:37,872 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\tyavi\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-13 11:53:46,635 INFO CorrectDataTest [main] Открытие Chrome
+2023-11-13 11:54:02,340 INFO CorrectDataTest [main] Авторизация на сайте
+2023-11-13 11:54:34,485 INFO CorrectDataTest [main] Закрытие драйвера
+2023-11-13 12:20:46,784 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-13 12:20:46,854 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\tyavi\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-13 12:20:56,997 INFO CorrectDataTest [main] Открытие Chrome
+2023-11-13 12:21:13,967 INFO CorrectDataTest [main] Авторизация на сайте
+2023-11-13 12:21:45,038 INFO CorrectDataTest [main] Закрытие драйвера
+2023-11-13 12:25:02,349 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-13 12:25:02,402 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\tyavi\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-13 12:25:14,093 INFO CorrectDataTest [main] Открытие Chrome
+2023-11-13 12:25:29,163 INFO CorrectDataTest [main] Авторизация на сайте
+2023-11-13 12:26:01,063 INFO CorrectDataTest [main] Закрытие драйвера
+2023-11-13 12:35:07,211 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-13 12:35:07,270 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\tyavi\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-13 12:35:16,294 INFO CorrectDataTest [main] Открытие Chrome
+2023-11-13 12:35:29,631 INFO CorrectDataTest [main] Авторизация на сайте
+2023-11-13 12:35:31,481 INFO CorrectDataTest [main] Закрытие драйвера
+2023-11-13 13:03:09,097 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-13 13:03:09,159 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\tyavi\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-13 13:03:18,426 INFO CorrectDataTest [main] Открытие Chrome
+2023-11-13 13:03:29,443 INFO CorrectDataTest [main] Авторизация на сайте
+2023-11-13 13:04:01,405 INFO CorrectDataTest [main] Закрытие драйвера
+2023-11-13 13:12:15,148 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-13 13:12:15,225 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\tyavi\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-13 13:12:28,222 INFO CorrectDataTest [main] Открытие Chrome
+2023-11-13 13:12:50,911 INFO CorrectDataTest [main] Авторизация на сайте
+2023-11-13 13:13:22,538 INFO CorrectDataTest [main] Закрытие драйвера
+2023-11-13 13:23:31,101 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-13 13:23:31,169 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\tyavi\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-13 13:23:41,251 INFO CorrectDataTest [main] Открытие Chrome
+2023-11-13 13:23:50,461 INFO CorrectDataTest [main] Авторизация на сайте
+2023-11-13 13:24:21,698 INFO CorrectDataTest [main] Закрытие драйвера
+2023-11-13 13:26:08,034 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-13 13:26:08,097 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\tyavi\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-13 13:26:15,417 INFO CorrectDataTest [main] Открытие Chrome
+2023-11-13 13:26:27,605 INFO CorrectDataTest [main] Закрытие драйвера
+2023-11-13 13:40:00,955 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-13 13:40:01,007 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\tyavi\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-13 13:40:10,279 INFO CorrectDataTest [main] Открытие Chrome
+2023-11-13 13:40:21,506 INFO CorrectDataTest [main] Авторизация на сайте
+2023-11-13 13:40:52,909 INFO CorrectDataTest [main] Закрытие драйвера
+2023-11-13 13:43:30,408 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-13 13:43:30,934 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\tyavi\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-13 13:43:42,299 INFO CorrectDataTest [main] Открытие Chrome
+2023-11-13 13:43:53,395 INFO CorrectDataTest [main] Авторизация на сайте
+2023-11-13 13:43:59,862 INFO CorrectDataTest [main] Закрытие драйвера
+2023-11-13 14:06:05,918 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-13 14:06:05,999 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\tyavi\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-13 14:06:16,204 INFO CorrectDataTest [main] Открытие Chrome
+2023-11-13 14:06:27,299 INFO CorrectDataTest [main] Авторизация на сайте
+2023-11-13 14:06:58,536 INFO CorrectDataTest [main] Закрытие драйвера
+2023-11-13 14:09:17,642 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-13 14:09:17,730 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\tyavi\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-13 14:09:29,044 INFO CorrectDataTest [main] Открытие Chrome
+2023-11-13 14:09:40,468 INFO CorrectDataTest [main] Авторизация на сайте
+2023-11-13 14:10:11,584 INFO CorrectDataTest [main] Закрытие драйвера
+2023-11-13 14:13:04,717 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-13 14:13:04,839 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\tyavi\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-13 14:13:19,409 INFO CorrectDataTest [main] Открытие Chrome
+2023-11-13 14:13:35,788 INFO CorrectDataTest [main] Авторизация на сайте
+2023-11-13 14:14:10,816 INFO CorrectDataTest [main] Закрытие драйвера
+2023-11-13 14:15:21,806 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-13 14:15:21,891 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\tyavi\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-13 14:15:35,507 INFO CorrectDataTest [main] РћС‚РєСЂС‹С‚РёРµ Chrome
+2023-11-13 14:15:57,432 INFO CorrectDataTest [main] Р—Р°РєСЂС‹С‚РёРµ РґСЂР°Р№РІРµСЂР°
+2023-11-13 14:16:40,156 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-13 14:16:40,233 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\tyavi\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-13 14:16:47,835 INFO CorrectDataTest [main] Открытие Chrome
+2023-11-13 14:17:01,471 INFO CorrectDataTest [main] Авторизация на сайте
+2023-11-13 14:17:34,406 INFO CorrectDataTest [main] Закрытие драйвера
+2023-11-13 14:18:01,097 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-13 14:18:01,171 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\tyavi\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-13 14:18:08,910 INFO CorrectDataTest [main] Открытие Chrome
+2023-11-13 14:18:28,665 INFO CorrectDataTest [main] Авторизация на сайте
+2023-11-13 14:19:11,042 INFO CorrectDataTest [main] Закрытие драйвера
+2023-11-13 14:19:53,115 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-13 14:19:53,334 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\tyavi\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-13 14:20:09,436 INFO CorrectDataTest [main] Открытие Chrome
+2023-11-13 14:20:24,018 INFO CorrectDataTest [main] Авторизация на сайте
+2023-11-13 14:20:57,490 INFO CorrectDataTest [main] Закрытие драйвера
+2023-11-13 14:30:34,771 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-13 14:30:34,884 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\tyavi\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-13 14:30:52,890 INFO CorrectDataTest [main] РћС‚РєСЂС‹С‚РёРµ Chrome
+2023-11-13 14:31:08,539 INFO CorrectDataTest [main] Р—Р°РєСЂС‹С‚РёРµ РґСЂР°Р№РІРµСЂР°
+2023-11-13 14:33:50,666 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-13 14:33:50,756 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\tyavi\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-13 14:34:05,808 INFO CorrectDataTest [main] РћС‚РєСЂС‹С‚РёРµ Chrome
+2023-11-13 14:34:19,317 INFO CorrectDataTest [main] Р—Р°РєСЂС‹С‚РёРµ РґСЂР°Р№РІРµСЂР°
+2023-11-13 14:35:58,395 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-13 14:35:58,581 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\tyavi\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-13 14:36:10,867 INFO CorrectDataTest [main] Открытие Chrome
+2023-11-13 14:36:29,421 INFO CorrectDataTest [main] Авторизация на сайте
+2023-11-13 14:37:02,499 INFO CorrectDataTest [main] Закрытие драйвера
+2023-11-13 14:48:38,336 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-13 14:48:38,414 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\tyavi\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-13 14:48:56,699 INFO CorrectDataTest [main] РћС‚РєСЂС‹С‚РёРµ Chrome
+2023-11-13 14:51:02,775 INFO CorrectDataTest [main] РђРІС‚РѕСЂРёР·Р°С†РёСЏ РЅР° СЃР°Р№С‚Рµ
+2023-11-13 14:52:15,327 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-13 14:52:15,413 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\tyavi\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-13 14:52:27,458 INFO CorrectDataTest [main] РћС‚РєСЂС‹С‚РёРµ Chrome
+2023-11-13 14:57:46,290 INFO CorrectDataTest [main] РђРІС‚РѕСЂРёР·Р°С†РёСЏ РЅР° СЃР°Р№С‚Рµ
+2023-11-13 14:58:28,055 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-13 14:58:28,167 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\tyavi\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-13 14:58:42,618 INFO CorrectDataTest [main] РћС‚РєСЂС‹С‚РёРµ Chrome
+2023-11-13 15:10:44,399 INFO CorrectDataTest [main] РђРІС‚РѕСЂРёР·Р°С†РёСЏ РЅР° СЃР°Р№С‚Рµ
+2023-11-13 15:11:23,599 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-13 15:11:23,778 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\tyavi\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-13 15:11:45,047 INFO CorrectDataTest [main] РћС‚РєСЂС‹С‚РёРµ Chrome
+2023-11-13 15:12:11,088 INFO CorrectDataTest [main] РђРІС‚РѕСЂРёР·Р°С†РёСЏ РЅР° СЃР°Р№С‚Рµ
+2023-11-13 15:12:48,958 INFO CorrectDataTest [main] Р—Р°РєСЂС‹С‚РёРµ РґСЂР°Р№РІРµСЂР°
+2023-11-13 15:13:54,147 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-13 15:13:54,278 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\tyavi\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-13 15:14:15,698 INFO CorrectDataTest [main] РћС‚РєСЂС‹С‚РёРµ Chrome
+2023-11-13 15:15:50,256 INFO CorrectDataTest [main] РђРІС‚РѕСЂРёР·Р°С†РёСЏ РЅР° СЃР°Р№С‚Рµ
+2023-11-13 17:02:41,639 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-13 17:02:41,761 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\tyavi\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-13 17:02:57,228 INFO CorrectDataTest [main] Открытие Chrome
+2023-11-13 17:03:18,073 INFO CorrectDataTest [main] Авторизация на сайте
+2023-11-13 17:03:49,926 INFO CorrectDataTest [main] Закрытие драйвера
+2023-11-13 17:20:12,998 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-13 17:20:13,068 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\tyavi\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-13 17:20:31,845 INFO CorrectDataTest [main] Открытие Chrome
+2023-11-13 17:20:53,830 INFO CorrectDataTest [main] Закрытие драйвера
+2023-11-13 17:22:21,639 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-13 17:22:21,706 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\tyavi\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-13 17:22:36,033 INFO CorrectDataTest [main] Открытие Chrome
+2023-11-13 17:22:53,642 INFO CorrectDataTest [main] Закрытие драйвера
+2023-11-13 17:24:42,612 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-13 17:24:42,702 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\tyavi\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-13 17:24:54,111 INFO CorrectDataTest [main] РћС‚РєСЂС‹С‚РёРµ Chrome
+2023-11-13 17:25:17,187 INFO CorrectDataTest [main] Р—Р°РєСЂС‹С‚РёРµ РґСЂР°Р№РІРµСЂР°
+2023-11-13 17:26:16,776 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-13 17:26:16,844 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\tyavi\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-13 17:26:29,230 INFO CorrectDataTest [main] Открытие Chrome
+2023-11-13 17:26:43,812 INFO CorrectDataTest [main] Закрытие драйвера
+2023-11-13 17:37:44,518 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-13 17:37:44,593 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\tyavi\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-13 17:37:56,163 INFO CorrectDataTest [main] Открытие Chrome
+2023-11-13 17:38:41,803 INFO CorrectDataTest [main] Закрытие драйвера
+2023-11-13 17:39:31,665 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-13 17:39:31,732 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\tyavi\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-13 17:39:43,132 INFO CorrectDataTest [main] Открытие Chrome
+2023-11-13 17:40:22,748 INFO CorrectDataTest [main] Закрытие драйвера
+2023-11-13 17:41:30,837 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-13 17:41:30,897 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\tyavi\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-13 17:41:39,906 INFO CorrectDataTest [main] Открытие Chrome
+2023-11-13 17:41:48,305 INFO CorrectDataTest [main] Авторизация на сайте
+2023-11-13 17:42:20,286 INFO CorrectDataTest [main] Закрытие драйвера
+2023-11-13 17:43:54,960 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-13 17:43:55,128 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\tyavi\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-13 17:44:08,774 INFO CorrectDataTest [main] Открытие Chrome
+2023-11-13 17:44:18,511 INFO CorrectDataTest [main] Авторизация на сайте
+2023-11-13 17:44:53,602 INFO CorrectDataTest [main] Вход в Мой Профиль
+2023-11-13 17:45:10,406 INFO CorrectDataTest [main] Добавление пользовательских данных
+2023-11-13 17:46:10,540 INFO CorrectDataTest [main] Добавление основной информации
+2023-11-13 17:46:11,582 INFO CorrectDataTest [main] Добавление другой информации
+2023-11-13 17:46:53,305 INFO CorrectDataTest [main] Добавление информации об опыте разработки
+2023-11-13 17:46:58,988 INFO CorrectDataTest [main] Сохранение страницы
+2023-11-13 17:47:01,264 INFO CorrectDataTest [main] Закрытие драйвера
+2023-11-13 17:47:03,780 INFO CorrectDataTest [main] Открытие Chrome
+2023-11-13 17:47:10,156 INFO CorrectDataTest [main] Авторизация на сайте
+2023-11-13 17:47:39,289 INFO CorrectDataTest [main] Вход в Мой Профиль
+2023-11-13 17:47:44,734 INFO CorrectDataTest [main] Закрытие драйвера
+2023-11-13 17:57:57,216 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-13 17:57:57,292 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\tyavi\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-13 17:58:09,289 INFO CorrectDataTest [main] Открытие Chrome
+2023-11-13 17:58:19,369 INFO CorrectDataTest [main] Авторизация на сайте
+2023-11-13 17:59:20,103 INFO CorrectDataTest [main] Закрытие драйвера
+2023-11-13 17:59:57,648 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-13 17:59:57,713 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\tyavi\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-13 18:00:11,071 INFO CorrectDataTest [main] Открытие Chrome
+2023-11-13 18:00:20,404 INFO CorrectDataTest [main] Авторизация на сайте
+2023-11-13 18:00:35,098 INFO CorrectDataTest [main] Вход в Мой Профиль
+2023-11-13 18:00:51,189 INFO CorrectDataTest [main] Добавление пользовательских данных
+2023-11-13 18:01:31,752 INFO CorrectDataTest [main] Добавление основной информации
+2023-11-13 18:01:32,510 INFO CorrectDataTest [main] Добавление другой информации
+2023-11-13 18:02:12,006 INFO CorrectDataTest [main] Добавление информации об опыте разработки
+2023-11-13 18:02:16,272 INFO CorrectDataTest [main] Сохранение страницы
+2023-11-13 18:02:18,112 INFO CorrectDataTest [main] Закрытие драйвера
+2023-11-13 18:02:20,552 INFO CorrectDataTest [main] Открытие Chrome
+2023-11-13 18:02:29,632 INFO CorrectDataTest [main] Авторизация на сайте
+2023-11-13 18:03:29,731 INFO CorrectDataTest [main] Закрытие драйвера
+2023-11-14 09:02:49,893 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-14 09:02:49,961 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\tyavi\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-14 09:03:05,971 INFO CorrectDataTest [main] Открытие Chrome
+2023-11-14 09:03:21,982 INFO CorrectDataTest [main] Авторизация на сайте
+2023-11-14 09:03:40,488 INFO CorrectDataTest [main] Вход в Мой Профиль
+2023-11-14 09:03:56,350 INFO CorrectDataTest [main] Добавление пользовательских данных
+2023-11-14 09:04:37,260 INFO CorrectDataTest [main] Закрытие драйвера
+2023-11-14 09:19:37,626 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-14 09:19:37,697 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\tyavi\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-14 09:19:50,677 INFO CorrectDataTest [main] Открытие Chrome
+2023-11-14 09:20:05,051 INFO CorrectDataTest [main] Авторизация на сайте
+2023-11-14 09:20:15,515 INFO CorrectDataTest [main] Вход в Мой Профиль
+2023-11-14 09:20:30,721 INFO CorrectDataTest [main] Добавление пользовательских данных
+2023-11-14 09:21:43,362 INFO CorrectDataTest [main] Закрытие драйвера
+2023-11-14 09:24:06,813 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-14 09:24:06,911 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\tyavi\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-14 09:24:19,559 INFO CorrectDataTest [main] Открытие Chrome
+2023-11-14 09:24:32,838 INFO CorrectDataTest [main] Авторизация на сайте
+2023-11-14 09:25:25,954 INFO CorrectDataTest [main] Закрытие драйвера
+2023-11-14 09:26:06,687 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-14 09:26:06,747 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\tyavi\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-14 09:26:13,464 INFO CorrectDataTest [main] Открытие Chrome
+2023-11-14 09:26:25,350 INFO CorrectDataTest [main] Авторизация на сайте
+2023-11-14 09:27:03,829 INFO CorrectDataTest [main] Закрытие драйвера
+2023-11-14 09:27:46,727 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-14 09:27:46,799 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\tyavi\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-14 09:27:59,792 INFO CorrectDataTest [main] Открытие Chrome
+2023-11-14 09:28:12,317 INFO CorrectDataTest [main] Авторизация на сайте
+2023-11-14 09:28:20,982 INFO CorrectDataTest [main] Вход в Мой Профиль
+2023-11-14 09:28:37,915 INFO CorrectDataTest [main] Добавление пользовательских данных
+2023-11-14 09:29:16,003 INFO CorrectDataTest [main] Добавление основной информации
+2023-11-14 09:29:16,857 INFO CorrectDataTest [main] Добавление другой информации
+2023-11-14 09:29:56,381 INFO CorrectDataTest [main] Добавление информации об опыте разработки
+2023-11-14 09:29:59,565 INFO CorrectDataTest [main] Сохранение страницы
+2023-11-14 09:30:00,976 INFO CorrectDataTest [main] Закрытие драйвера
+2023-11-14 09:30:03,175 INFO CorrectDataTest [main] Открытие Chrome
+2023-11-14 09:30:11,789 INFO CorrectDataTest [main] Авторизация на сайте
+2023-11-14 09:30:25,730 INFO CorrectDataTest [main] Вход в Мой Профиль
+2023-11-14 09:30:29,016 INFO CorrectDataTest [main] В разделе о себе отображаются указанные ранее данные
+2023-11-14 09:30:37,665 INFO CorrectDataTest [main] Закрытие драйвера
+2023-11-14 09:37:38,259 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-14 09:37:38,305 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\tyavi\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-14 09:37:45,106 INFO CorrectDataTest [main] Открытие Chrome
+2023-11-14 09:37:56,081 INFO CorrectDataTest [main] Авторизация на сайте
+2023-11-14 09:38:11,274 INFO CorrectDataTest [main] Вход в Мой Профиль
+2023-11-14 09:38:27,415 INFO CorrectDataTest [main] Добавление пользовательских данных
+2023-11-14 09:39:06,883 INFO CorrectDataTest [main] Добавление основной информации
+2023-11-14 09:39:07,752 INFO CorrectDataTest [main] Добавление другой информации
+2023-11-14 09:39:47,585 INFO CorrectDataTest [main] Добавление информации об опыте разработки
+2023-11-14 09:39:52,110 INFO CorrectDataTest [main] Сохранение страницы
+2023-11-14 09:39:55,538 INFO CorrectDataTest [main] Закрытие драйвера
+2023-11-14 09:39:58,049 INFO CorrectDataTest [main] Открытие Chrome
+2023-11-14 09:40:05,340 INFO CorrectDataTest [main] Авторизация на сайте
+2023-11-14 09:40:12,793 INFO CorrectDataTest [main] Вход в Мой Профиль
+2023-11-14 09:40:14,471 INFO CorrectDataTest [main] В разделе о себе отображаются указанные ранее данные
+2023-11-14 09:40:15,884 INFO CorrectDataTest [main] Закрытие драйвера
+2023-11-14 10:09:01,855 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-14 10:09:01,914 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\tyavi\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-14 10:09:13,282 INFO CorrectDataTest [main] Открытие Chrome
+2023-11-14 10:09:25,092 INFO CorrectDataTest [main] Авторизация на сайте
+2023-11-14 10:09:46,946 INFO CorrectDataTest [main] Вход в Мой Профиль
+2023-11-14 10:10:01,825 INFO CorrectDataTest [main] Добавление пользовательских данных
+2023-11-14 10:10:42,722 INFO CorrectDataTest [main] Добавление основной информации
+2023-11-14 10:10:43,711 INFO CorrectDataTest [main] Добавление другой информации
+2023-11-14 10:11:37,407 INFO CorrectDataTest [main] Добавление информации об опыте разработки
+2023-11-14 10:11:41,558 INFO CorrectDataTest [main] Сохранение страницы
+2023-11-14 10:11:43,560 INFO CorrectDataTest [main] Закрытие драйвера
+2023-11-14 10:11:46,663 INFO CorrectDataTest [main] Открытие Chrome
+2023-11-14 10:11:55,193 INFO CorrectDataTest [main] Авторизация на сайте
+2023-11-14 10:12:06,293 INFO CorrectDataTest [main] Вход в Мой Профиль
+2023-11-14 10:12:08,721 INFO CorrectDataTest [main] В разделе о себе отображаются указанные ранее данные
+2023-11-14 10:12:11,224 INFO CorrectDataTest [main] Закрытие драйвера
+2023-11-14 11:49:40,093 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-14 11:49:40,152 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\tyavi\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-14 11:49:54,237 INFO CorrectDataTest [main] РћС‚РєСЂС‹С‚РёРµ Chrome
+2023-11-14 11:50:06,079 INFO CorrectDataTest [main] Р—Р°РєСЂС‹С‚РёРµ РґСЂР°Р№РІРµСЂР°
+2023-11-14 11:51:13,756 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-14 11:51:13,879 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\tyavi\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-14 11:51:28,202 INFO CorrectDataTest [main] Открытие Chrome
+2023-11-14 11:51:42,618 INFO CorrectDataTest [main] Авторизация на сайте
+2023-11-14 11:51:52,738 INFO CorrectDataTest [main] Вход в Мой Профиль
+2023-11-14 11:52:08,334 INFO CorrectDataTest [main] Добавление пользовательских данных
+2023-11-14 11:52:47,083 INFO CorrectDataTest [main] Добавление основной информации
+2023-11-14 11:52:47,963 INFO CorrectDataTest [main] Добавление другой информации
+2023-11-14 11:53:27,473 INFO CorrectDataTest [main] Добавление информации об опыте разработки
+2023-11-14 11:53:31,647 INFO CorrectDataTest [main] Сохранение страницы
+2023-11-14 11:53:33,973 INFO CorrectDataTest [main] Закрытие драйвера
+2023-11-14 11:53:36,927 INFO CorrectDataTest [main] Открытие Chrome
+2023-11-14 11:53:47,966 INFO CorrectDataTest [main] Авторизация на сайте
+2023-11-14 11:54:26,482 INFO CorrectDataTest [main] Закрытие драйвера
+2023-11-14 12:01:21,586 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-14 12:01:21,671 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\tyavi\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-14 12:01:36,323 INFO CorrectDataTest [main] Открытие Chrome
+2023-11-14 12:01:50,725 INFO CorrectDataTest [main] Авторизация на сайте
+2023-11-14 12:02:19,206 INFO CorrectDataTest [main] Вход в Мой Профиль
+2023-11-14 12:02:35,287 INFO CorrectDataTest [main] Добавление пользовательских данных
+2023-11-14 12:03:42,847 INFO CorrectDataTest [main] Добавление основной информации
+2023-11-14 12:03:44,203 INFO CorrectDataTest [main] Добавление другой информации
+2023-11-14 12:04:23,803 INFO CorrectDataTest [main] Добавление информации об опыте разработки
+2023-11-14 12:04:28,728 INFO CorrectDataTest [main] Сохранение страницы
+2023-11-14 12:04:31,034 INFO CorrectDataTest [main] Закрытие драйвера
+2023-11-14 12:04:33,343 INFO CorrectDataTest [main] Открытие Chrome
+2023-11-14 12:04:40,046 INFO CorrectDataTest [main] Авторизация на сайте
+2023-11-14 12:04:47,971 INFO CorrectDataTest [main] Вход в Мой Профиль
+2023-11-14 12:04:50,172 INFO CorrectDataTest [main] В разделе о себе отображаются указанные ранее данные
+2023-11-14 12:04:51,223 INFO CorrectDataTest [main] Закрытие драйвера
+2023-11-14 12:22:00,848 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-14 12:22:00,901 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\tyavi\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-14 12:22:06,767 INFO CorrectDataTest [main] Открытие Chrome
+2023-11-14 12:22:19,250 INFO CorrectDataTest [main] Авторизация на сайте
+2023-11-14 12:22:27,936 INFO CorrectDataTest [main] Вход в Мой Профиль
+2023-11-14 12:22:43,254 INFO CorrectDataTest [main] Добавление пользовательских данных
+2023-11-14 12:23:23,809 INFO CorrectDataTest [main] Добавление основной информации
+2023-11-14 12:23:24,881 INFO CorrectDataTest [main] Добавление другой информации
+2023-11-14 12:24:04,722 INFO CorrectDataTest [main] Добавление информации об опыте разработки
+2023-11-14 12:24:07,956 INFO CorrectDataTest [main] Сохранение страницы
+2023-11-14 12:24:09,764 INFO CorrectDataTest [main] Закрытие драйвера
+2023-11-14 12:24:12,049 INFO CorrectDataTest [main] Открытие Chrome
+2023-11-14 12:24:51,735 INFO CorrectDataTest [main] Авторизация на сайте
+2023-11-14 12:25:28,853 INFO CorrectDataTest [main] Закрытие драйвера
+2023-11-14 12:40:59,710 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-14 12:40:59,806 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\tyavi\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-14 12:41:09,900 INFO CorrectDataTest [main] Открытие Chrome
+2023-11-14 12:41:27,504 INFO CorrectDataTest [main] Авторизация на сайте
+2023-11-14 12:41:39,657 INFO CorrectDataTest [main] Вход в Мой Профиль
+2023-11-14 12:41:54,885 INFO CorrectDataTest [main] Добавление пользовательских данных
+2023-11-14 12:42:36,129 INFO CorrectDataTest [main] Добавление основной информации
+2023-11-14 12:42:36,969 INFO CorrectDataTest [main] Добавление другой информации
+2023-11-14 12:43:18,590 INFO CorrectDataTest [main] Добавление информации об опыте разработки
+2023-11-14 12:43:21,826 INFO CorrectDataTest [main] Сохранение страницы
+2023-11-14 12:43:26,908 INFO CorrectDataTest [main] Закрытие драйвера
+2023-11-14 12:43:30,950 INFO CorrectDataTest [main] Открытие Chrome
+2023-11-14 12:43:42,056 INFO CorrectDataTest [main] Авторизация на сайте
+2023-11-14 12:44:08,771 INFO CorrectDataTest [main] Вход в Мой Профиль
+2023-11-14 12:44:11,192 INFO CorrectDataTest [main] В разделе о себе отображаются указанные ранее данные
+2023-11-14 12:44:21,328 INFO CorrectDataTest [main] Закрытие драйвера
+2023-11-14 12:47:44,607 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-14 12:47:44,679 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\tyavi\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-14 12:47:52,083 INFO CorrectDataTest [main] Открытие Chrome
+2023-11-14 12:48:05,077 INFO CorrectDataTest [main] Авторизация на сайте
+2023-11-14 12:48:16,050 INFO CorrectDataTest [main] Вход в Мой Профиль
+2023-11-14 12:49:06,035 INFO CorrectDataTest [main] Закрытие драйвера
+2023-11-14 12:58:07,133 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-14 12:58:07,198 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\tyavi\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-14 12:58:20,709 INFO CorrectDataTest [main] Открытие Chrome
+2023-11-14 12:58:46,807 INFO CorrectDataTest [main] Авторизация на сайте
+2023-11-14 12:58:55,926 INFO CorrectDataTest [main] Вход в Мой Профиль
+2023-11-14 12:59:43,881 INFO CorrectDataTest [main] Закрытие драйвера
+2023-11-14 13:22:01,275 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-14 13:22:01,407 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\tyavi\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-14 13:22:09,301 INFO CorrectDataTest [main] Открытие Chrome
+2023-11-14 13:22:20,990 INFO CorrectDataTest [main] Закрытие драйвера
+2023-11-14 13:23:33,746 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-14 13:23:33,874 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\tyavi\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-14 13:23:48,123 INFO CorrectDataTest [main] Открытие Chrome
+2023-11-14 13:24:02,184 INFO CorrectDataTest [main] Авторизация на сайте
+2023-11-14 13:24:15,306 INFO CorrectDataTest [main] Вход в Мой Профиль
+2023-11-14 13:25:04,868 INFO CorrectDataTest [main] Закрытие драйвера
+2023-11-14 13:28:52,404 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-14 13:28:52,494 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\tyavi\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-14 13:29:08,237 INFO CorrectDataTest [main] Открытие Chrome
+2023-11-14 13:29:20,631 INFO CorrectDataTest [main] Авторизация на сайте
+2023-11-14 13:29:34,259 INFO CorrectDataTest [main] Вход в Мой Профиль
+2023-11-14 13:30:24,403 INFO CorrectDataTest [main] Закрытие драйвера
+2023-11-14 13:31:54,924 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-14 13:31:55,097 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\tyavi\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-14 13:32:02,742 INFO CorrectDataTest [main] Открытие Chrome
+2023-11-14 13:32:16,086 INFO CorrectDataTest [main] Авторизация на сайте
+2023-11-14 13:32:30,418 INFO CorrectDataTest [main] Вход в Мой Профиль
+2023-11-14 13:33:19,424 INFO CorrectDataTest [main] Закрытие драйвера
+2023-11-14 13:34:31,482 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-14 13:34:31,571 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\tyavi\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-14 13:34:46,497 INFO CorrectDataTest [main] Открытие Chrome
+2023-11-14 13:35:04,362 INFO CorrectDataTest [main] Авторизация на сайте
+2023-11-14 13:35:40,057 INFO CorrectDataTest [main] Закрытие драйвера
+2023-11-14 13:36:12,870 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-14 13:36:12,955 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\tyavi\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-14 13:36:29,334 INFO CorrectDataTest [main] Открытие Chrome
+2023-11-14 13:36:48,837 INFO CorrectDataTest [main] Закрытие драйвера
+2023-11-14 13:38:22,555 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-14 13:38:22,612 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\tyavi\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-14 13:38:38,352 INFO CorrectDataTest [main] Открытие Chrome
+2023-11-14 13:38:50,792 INFO CorrectDataTest [main] Авторизация на сайте
+2023-11-14 13:38:59,396 INFO CorrectDataTest [main] Вход в Мой Профиль
+2023-11-14 13:39:16,246 INFO CorrectDataTest [main] Добавление пользовательских данных
+2023-11-14 13:39:55,761 INFO CorrectDataTest [main] Добавление основной информации
+2023-11-14 13:39:56,591 INFO CorrectDataTest [main] Добавление другой информации
+2023-11-14 13:40:37,181 INFO CorrectDataTest [main] Добавление информации об опыте разработки
+2023-11-14 13:40:41,986 INFO CorrectDataTest [main] Сохранение страницы
+2023-11-14 13:40:43,562 INFO CorrectDataTest [main] Закрытие драйвера
+2023-11-14 13:40:46,165 INFO CorrectDataTest [main] Открытие Chrome
+2023-11-14 13:40:53,099 INFO CorrectDataTest [main] Авторизация на сайте
+2023-11-14 13:41:13,879 INFO CorrectDataTest [main] Вход в Мой Профиль
+2023-11-14 13:41:15,657 INFO CorrectDataTest [main] В разделе о себе отображаются указанные ранее данные
+2023-11-14 13:41:17,068 INFO CorrectDataTest [main] Закрытие драйвера
+2023-11-14 13:49:09,218 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-14 13:49:09,289 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\tyavi\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-14 13:49:24,739 INFO CorrectDataTest [main] Открытие Chrome
+2023-11-14 13:49:38,205 INFO CorrectDataTest [main] Авторизация на сайте
+2023-11-14 13:50:03,801 INFO CorrectDataTest [main] Вход в Мой Профиль
+2023-11-14 13:50:20,248 INFO CorrectDataTest [main] Добавление пользовательских данных
+2023-11-14 13:51:00,658 INFO CorrectDataTest [main] Закрытие драйвера
+2023-11-14 13:53:13,139 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-14 13:53:13,206 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\tyavi\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-14 13:53:26,096 INFO CorrectDataTest [main] Открытие Chrome
+2023-11-14 13:53:36,520 INFO CorrectDataTest [main] Авторизация на сайте
+2023-11-14 13:53:47,365 INFO CorrectDataTest [main] Вход в Мой Профиль
+2023-11-14 13:54:04,680 INFO CorrectDataTest [main] Добавление пользовательских данных
+2023-11-14 13:54:46,063 INFO CorrectDataTest [main] Закрытие драйвера
+2023-11-14 13:57:11,973 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-14 13:57:12,058 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\tyavi\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-14 13:57:18,934 INFO CorrectDataTest [main] Открытие Chrome
+2023-11-14 13:57:33,290 INFO CorrectDataTest [main] Авторизация на сайте
+2023-11-14 13:58:18,460 INFO CorrectDataTest [main] Вход в Мой Профиль
+2023-11-14 13:58:35,469 INFO CorrectDataTest [main] Добавление пользовательских данных
+2023-11-14 13:59:17,524 INFO CorrectDataTest [main] Добавление основной информации
+2023-11-14 13:59:20,975 INFO CorrectDataTest [main] Закрытие драйвера
+2023-11-14 14:01:19,881 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-14 14:01:19,964 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\tyavi\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-14 14:01:36,588 INFO CorrectDataTest [main] Открытие Chrome
+2023-11-14 14:01:53,740 INFO CorrectDataTest [main] Авторизация на сайте
+2023-11-14 14:02:18,717 INFO CorrectDataTest [main] Вход в Мой Профиль
+2023-11-14 14:02:37,232 INFO CorrectDataTest [main] Добавление пользовательских данных
+2023-11-14 14:03:21,434 INFO CorrectDataTest [main] Добавление основной информации
+2023-11-14 14:03:22,515 INFO CorrectDataTest [main] Добавление другой информации
+2023-11-14 14:04:04,071 INFO CorrectDataTest [main] Добавление информации об опыте разработки
+2023-11-14 14:04:08,282 INFO CorrectDataTest [main] Сохранение страницы
+2023-11-14 14:04:09,601 INFO CorrectDataTest [main] Закрытие драйвера
+2023-11-14 14:04:12,082 INFO CorrectDataTest [main] Открытие Chrome
+2023-11-14 14:04:19,858 INFO CorrectDataTest [main] Авторизация на сайте
+2023-11-14 14:04:29,419 INFO CorrectDataTest [main] Вход в Мой Профиль
+2023-11-14 14:04:32,503 INFO CorrectDataTest [main] В разделе о себе отображаются указанные ранее данные
+2023-11-14 14:04:33,923 INFO CorrectDataTest [main] Закрытие драйвера
+2023-11-14 14:18:22,788 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-14 14:18:22,876 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\tyavi\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-14 14:18:38,677 INFO CorrectDataTest [main] Открытие Chrome
+2023-11-14 14:18:49,112 INFO CorrectDataTest [main] Авторизация на сайте
+2023-11-14 14:18:54,440 INFO CorrectDataTest [main] Закрытие драйвера
+2023-11-14 14:20:21,838 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-14 14:20:21,934 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\tyavi\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-14 14:20:42,977 INFO CorrectDataTest [main] Открытие Chrome
+2023-11-14 14:20:59,420 INFO CorrectDataTest [main] Авторизация на сайте
+2023-11-14 14:21:11,205 INFO CorrectDataTest [main] Вход в Мой Профиль
+2023-11-14 14:21:26,946 INFO CorrectDataTest [main] Добавление пользовательских данных
+2023-11-14 14:22:06,487 INFO CorrectDataTest [main] Добавление основной информации
+2023-11-14 14:22:07,882 INFO CorrectDataTest [main] Добавление другой информации
+2023-11-14 14:23:18,037 INFO CorrectDataTest [main] Закрытие драйвера
+2023-11-14 14:24:38,302 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-14 14:24:38,524 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\tyavi\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-14 14:24:53,856 INFO CorrectDataTest [main] Открытие Chrome
+2023-11-14 14:25:09,626 INFO CorrectDataTest [main] Авторизация на сайте
+2023-11-14 14:25:57,247 INFO CorrectDataTest [main] Закрытие драйвера
+2023-11-14 14:27:23,731 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-14 14:27:23,859 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\tyavi\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-14 14:27:31,487 INFO CorrectDataTest [main] Открытие Chrome
+2023-11-14 14:27:42,807 INFO CorrectDataTest [main] Авторизация на сайте
+2023-11-14 14:28:32,428 INFO CorrectDataTest [main] Закрытие драйвера
+2023-11-14 14:30:13,427 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-14 14:30:13,503 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\tyavi\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-14 14:30:27,609 INFO CorrectDataTest [main] Открытие Chrome
+2023-11-14 14:30:47,800 INFO CorrectDataTest [main] Авторизация на сайте
+2023-11-14 14:31:16,891 INFO CorrectDataTest [main] Вход в Мой Профиль
+2023-11-14 14:31:34,321 INFO CorrectDataTest [main] Добавление пользовательских данных
+2023-11-14 14:32:15,155 INFO CorrectDataTest [main] Добавление основной информации
+2023-11-14 14:32:16,067 INFO CorrectDataTest [main] Добавление другой информации
+2023-11-14 14:32:54,657 INFO CorrectDataTest [main] Добавление информации об опыте разработки
+2023-11-14 14:32:58,036 INFO CorrectDataTest [main] Сохранение страницы
+2023-11-14 14:32:59,571 INFO CorrectDataTest [main] Закрытие драйвера
+2023-11-14 14:33:01,713 INFO CorrectDataTest [main] Открытие Chrome
+2023-11-14 14:33:08,174 INFO CorrectDataTest [main] Авторизация на сайте
+2023-11-14 14:33:14,793 INFO CorrectDataTest [main] Вход в Мой Профиль
+2023-11-14 14:33:48,204 INFO CorrectDataTest [main] Закрытие драйвера
+2023-11-14 14:35:23,389 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-14 14:35:23,462 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\tyavi\.cache\selenium\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-14 14:35:34,886 INFO CorrectDataTest [main] Открытие Chrome
+2023-11-14 14:35:49,926 INFO CorrectDataTest [main] Авторизация на сайте
+2023-11-14 14:35:59,071 INFO CorrectDataTest [main] Вход в Мой Профиль
+2023-11-14 14:36:15,673 INFO CorrectDataTest [main] Добавление пользовательских данных
+2023-11-14 14:36:55,212 INFO CorrectDataTest [main] Добавление основной информации
+2023-11-14 14:36:56,030 INFO CorrectDataTest [main] Добавление другой информации
+2023-11-14 14:37:38,280 INFO CorrectDataTest [main] Добавление информации об опыте разработки
+2023-11-14 14:37:42,097 INFO CorrectDataTest [main] Сохранение страницы
+2023-11-14 14:37:44,243 INFO CorrectDataTest [main] Закрытие драйвера
+2023-11-14 14:37:46,343 INFO CorrectDataTest [main] Открытие Chrome
+2023-11-14 14:37:54,374 INFO CorrectDataTest [main] Авторизация на сайте
+2023-11-14 14:38:02,585 INFO CorrectDataTest [main] Вход в Мой Профиль
+2023-11-14 14:38:04,669 INFO CorrectDataTest [main] В разделе о себе отображаются указанные ранее данные
+2023-11-14 14:38:05,969 INFO CorrectDataTest [main] Закрытие драйвера
