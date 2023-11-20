@@ -20,8 +20,7 @@ public class CorrectDataTest {
     private final String LOGIN = System.getProperty("login");
     private final String PASSWORD = System.getProperty("password");
 
-
-    //mvn clean test  -Dlogin="maria.zonov@yandex.ru" -Dpassword="Tyavina@123"
+    //   mvn clean test  -Dlogin="maria.zonov@yandex.ru" -Dpassword="Tyavina@123"
 //    private String LOGIN = "maria.zonov@yandex.ru";
 //    private String PASSWORD = "Tyavina@123";
     private WebDriver driver;
@@ -86,7 +85,7 @@ public class CorrectDataTest {
     private void login() {
         driver.findElement(By.xpath("//button[contains(text(),'Войти')]")).click();
         driver.findElement(By.cssSelector(".hGvqzc")).click();
-        clearAndEnter(By.name("email"),LOGIN);
+        clearAndEnter(By.name("email"), LOGIN);
         driver.findElement(By.cssSelector(".sc-177u1yy-0")).click();
         clearAndEnter(By.xpath("//input[contains(@type,'password')]"), PASSWORD);
         WebElement enterButton= driver.findElement(By.xpath("//div[contains(text(),'Войти')]"));
@@ -172,8 +171,8 @@ public class CorrectDataTest {
 
         deleteContacts();
 //        driver.findElement(By.xpath("//span[@class='placeholder']")).click();
-        driver.findElement(By.className("placeholder")).click();
-        driver.findElement(By.cssSelector("div[class='lk-cv-block__select-options lk-cv-block__select-options_left js-custom-select-options-container'] button[title='Тelegram']")).click();
+        driver.findElement(By.xpath("//span[contains(text(),'Способ связи')]")).click();
+        driver.findElement(By.xpath("//button[@data-value='telegram']")).click();
         clearAndEnter(By.id("id_contact-0-value"), "@Mariazonov");
         log.info("Добавление основной информации");
     }
@@ -181,18 +180,15 @@ public class CorrectDataTest {
         int i = 1;
         do {
             String strSelector = "div.js-formset-row:nth-child(" + i + ") > div:nth-child(4) > div:nth-child(2) > button:nth-child(1)";
-//        log.info("  Контакты для удаления найдены =  ");
-//        log.info(strSelector);
             if (!isDisplayed(By.cssSelector(strSelector))) {
                 break;
             } else {
-//            log.info(" Отображаются контакты =  ");
-//            log.info(isDisplayed(By.cssSelector(strSelector)));
                 driver.findElement(By.cssSelector(strSelector)).click();
             }
             i++;
         } while (i < 20);
         driver.findElement(By.xpath("//button[contains(@title,'Сохранить и продолжить')]")).submit();
+//        driver.findElement(By.xpath("//div[@class='nav-sidebar']//link[@href='https://otus.ru/lk/biography/personal/']")).click();
         driver.findElement(By.xpath("//div[@class='nav-sidebar']//a[@title='Персональные данные']")).click();
 
     }
